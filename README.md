@@ -20,8 +20,8 @@ This is a command line application that lets you tweak the MantisBT database.
 
 
 ## Requirements
-Currently only tested using MantisBT 1.2.8 but may work with later versions.
-Requires _mysql Python module to be available.
+1. Currently only tested using MantisBT 1.2.8 but may work with later versions.
+1. Requires _mysql Python module to be available.
 
 ## Installation
 1. Download the file and place it in a directory on your `PATH`.
