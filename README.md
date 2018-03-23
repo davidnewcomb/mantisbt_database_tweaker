@@ -18,6 +18,10 @@ This is a command line application that lets you tweak the MantisBT database.
     - Modify category
     - Delete category
 
+Confirmation is required before any changes will be made. The SQL which will
+be executed is displayed and the SQL needed to rollback the change is also
+given, just in case!
+
 
 ## Requirements
 1. Currently only tested using MantisBT 1.2.8 but may work with later versions.
