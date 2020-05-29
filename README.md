@@ -1,4 +1,4 @@
-# mantisbt_database_tweaker
+# MantisBT Database Tweaker
 
 This is a command line application that lets you tweak the MantisBT database.
 
